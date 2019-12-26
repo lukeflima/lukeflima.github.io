@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{qmxv:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),c=n.n(t);a.default=function(){return c.a.createElement("div",{id:"landing",className:"content"},c.a.createElement("h1",{className:"name"},"Hello, I'm Lucas."),c.a.createElement("p",{className:"wip"},"WIP!"))}}}]);
+//# sourceMappingURL=component---src-pages-landing-index-js-c14ef9c558c607260ca4.js.map
